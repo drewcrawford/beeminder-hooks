@@ -10,5 +10,5 @@ Clone this repo, run install.sh.  Then run "git init" in all your repos.
 
 # Credit
 
-Thanks to Bryan Kam's [bmndr utility](https://twitter.com/bryankam) for doing the heavy lifting.
+Thanks to Bryan Kam's [bmndr utility](https://github.com/lydgate/bmndr) for doing the heavy lifting.
 
